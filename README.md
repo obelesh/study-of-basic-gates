@@ -83,6 +83,7 @@ Y= A⊕B
 **Logic symbol & Truthtable**
 
 ![Screenshot 2024-12-22 160213](https://github.com/user-attachments/assets/ef3800f6-5ed0-47f4-bc31-42380d48c58a)
+
 **RTL realization Output:** 
 
 ![Screenshot 2024-12-22 160227](https://github.com/user-attachments/assets/284afe1e-c644-43ee-865e-edc84923484b)
