@@ -82,18 +82,18 @@ Y= A⊕B
  
 **Logic symbol & Truthtable**
 
-![Screenshot 2024-12-22 153446](https://github.com/user-attachments/assets/0ca7cae5-e7e6-4c40-a020-797d2e5e7728)
+![Screenshot 2024-12-22 160213](https://github.com/user-attachments/assets/ef3800f6-5ed0-47f4-bc31-42380d48c58a)
 
-![Screenshot 2024-12-22 153455](https://github.com/user-attachments/assets/502e7e9c-f59b-403d-83ca-d8c3d5169472)
 
 **RTL realization Output:** 
 
-![Screenshot 2024-12-22 153504](https://github.com/user-attachments/assets/5134bf6e-8700-455f-a79e-0e203f2c7a1a)
+![Screenshot 2024-12-22 160227](https://github.com/user-attachments/assets/284afe1e-c644-43ee-865e-edc84923484b)
 
-**RTL**
 
-![Screenshot 2024-12-22 153518](https://github.com/user-attachments/assets/69ffe91f-c557-4458-a5e9-75d1203754f5)
+**Time Wave form**
+
+![Screenshot 2024-12-22 160254](https://github.com/user-attachments/assets/886aef6d-b455-4d44-bb49-3365a6a91da5)
 
 **Result:**
-
+The basic logic gates are studied are truth table are verified
 
