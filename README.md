@@ -88,7 +88,6 @@ Y= A⊕B
 
 ![Screenshot 2024-12-22 160227](https://github.com/user-attachments/assets/284afe1e-c644-43ee-865e-edc84923484b)
 
-
 **Time Wave form**
 
 ![Screenshot 2024-12-22 160254](https://github.com/user-attachments/assets/886aef6d-b455-4d44-bb49-3365a6a91da5)
