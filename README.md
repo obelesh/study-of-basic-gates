@@ -78,19 +78,22 @@ Y= A⊕B
 
 ```
 
- Developed by: RegisterNumber: OBELESH R (24901123)
+ Developed by: OBELESH R RegisterNumber: 24901123
  
 **Logic symbol & Truthtable**
 
-![Screenshot 2024-12-22 160213](https://github.com/user-attachments/assets/ef3800f6-5ed0-47f4-bc31-42380d48c58a)
+![Screenshot 2025-01-01 213322](https://github.com/user-attachments/assets/2653c186-aa47-46c9-80c4-fecc9176093a)
+
 
 **RTL realization Output:** 
 
-![Screenshot 2024-12-22 160227](https://github.com/user-attachments/assets/284afe1e-c644-43ee-865e-edc84923484b)
+![Screenshot 2025-01-01 213109](https://github.com/user-attachments/assets/4b9f987a-5b00-4cab-91bc-c6cfa4cbfe04)
+
 
 **Time Wave form**
 
-![Screenshot 2024-12-22 160254](https://github.com/user-attachments/assets/886aef6d-b455-4d44-bb49-3365a6a91da5)
+![Screenshot 2025-01-01 213133](https://github.com/user-attachments/assets/86fe9c75-d962-4d2f-a529-83189f208db2)
+
 
 **Result:**
 The basic logic gates are studied are truth table are verified
