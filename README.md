@@ -93,8 +93,6 @@ Y= A⊕B
 **Time Wave form**
 
 ![Screenshot 2025-01-01 213133](https://github.com/user-attachments/assets/86fe9c75-d962-4d2f-a529-83189f208db2)
-
-
 **Result:**
 The basic logic gates are studied are truth table are verified
 
